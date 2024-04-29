@@ -25,4 +25,3 @@ This HTML page allows users to convert normal text to cipher text and vice versa
 
 - This is a basic encryption and decryption method for demonstration purposes.
 - Do not use this for sensitive information as it provides minimal security.
-# Encrypt
